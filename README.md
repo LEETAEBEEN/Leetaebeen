@@ -27,14 +27,14 @@
 
 ## 📌 Projects
 
-<a href="https://github.com/Leetaebeen/StudyWithUs"><img src="./assets/StudyWithUs.svg" width="400" /></a>
-<a href="https://github.com/Leetaebeen/senior"><img src="./assets/senior.svg" width="400" /></a>
+<a href="https://github.com/Leetaebeen/StudyWithUs"><img src="./assets/StudyWithUs.svg" width="48%" /></a>
+<a href="https://github.com/Leetaebeen/senior"><img src="./assets/senior.svg" width="48%" /></a>
 
-<a href="https://github.com/Leetaebeen/MonitoringSystem"><img src="./assets/MonitoringSystem.svg" width="400" /></a>
-<a href="https://github.com/Leetaebeen/stock-signal-bot"><img src="./assets/stock-signal-bot.svg" width="400" /></a>
+<a href="https://github.com/Leetaebeen/MonitoringSystem"><img src="./assets/MonitoringSystem.svg" width="48%" /></a>
+<a href="https://github.com/Leetaebeen/stock-signal-bot"><img src="./assets/stock-signal-bot.svg" width="48%" /></a>
 
-<a href="https://github.com/Leetaebeen/money-plan"><img src="./assets/money-plan.svg" width="400" /></a>
-<a href="https://github.com/Leetaebeen/franchise_recruitment_analysis"><img src="./assets/franchise_recruitment_analysis.svg" width="400" /></a>
+<a href="https://github.com/Leetaebeen/money-plan"><img src="./assets/money-plan.svg" width="48%" /></a>
+<a href="https://github.com/Leetaebeen/franchise_recruitment_analysis"><img src="./assets/franchise_recruitment_analysis.svg" width="48%" /></a>
 
 <sub>📚 Study</sub><br>
 <a href="https://github.com/Leetaebeen/javasm"><img src="https://img.shields.io/badge/javasm-24283b?style=flat-square&logo=openjdk&logoColor=7aa2f7"/></a>
