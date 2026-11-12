@@ -11,11 +11,11 @@
 <table>
   <tr>
     <td align="center" width="110"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,mysql&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,mysql,cs,dotnet,kafka&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
@@ -29,6 +29,17 @@
 
 <a href="https://github.com/Leetaebeen/StudyWithUs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leetaebeen&repo=StudyWithUs&theme=tokyonight&hide_border=true&border_radius=12" /></a>
 <a href="https://github.com/Leetaebeen/senior"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leetaebeen&repo=senior&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+
+<a href="https://github.com/Leetaebeen/MonitoringSystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leetaebeen&repo=MonitoringSystem&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/Leetaebeen/stock-signal-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leetaebeen&repo=stock-signal-bot&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+
+<a href="https://github.com/Leetaebeen/money-plan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leetaebeen&repo=money-plan&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/Leetaebeen/franchise_recruitment_analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leetaebeen&repo=franchise_recruitment_analysis&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+
+<sub>📚 Study</sub><br>
+<a href="https://github.com/Leetaebeen/javasm"><img src="https://img.shields.io/badge/javasm-24283b?style=flat-square&logo=openjdk&logoColor=7aa2f7"/></a>
+<a href="https://github.com/Leetaebeen/jdbc"><img src="https://img.shields.io/badge/jdbc-24283b?style=flat-square&logo=openjdk&logoColor=7aa2f7"/></a>
+<a href="https://github.com/Leetaebeen/springsm"><img src="https://img.shields.io/badge/springsm-24283b?style=flat-square&logo=spring&logoColor=bb9af7"/></a>
 
 <br><br>
 
