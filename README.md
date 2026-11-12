@@ -27,14 +27,14 @@
 
 ## 📌 Projects
 
-<a href="https://github.com/Leetaebeen/StudyWithUs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leetaebeen&repo=StudyWithUs&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/Leetaebeen/senior"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leetaebeen&repo=senior&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/Leetaebeen/StudyWithUs"><img src="./assets/StudyWithUs.svg" width="400" /></a>
+<a href="https://github.com/Leetaebeen/senior"><img src="./assets/senior.svg" width="400" /></a>
 
-<a href="https://github.com/Leetaebeen/MonitoringSystem"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leetaebeen&repo=MonitoringSystem&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/Leetaebeen/stock-signal-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leetaebeen&repo=stock-signal-bot&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/Leetaebeen/MonitoringSystem"><img src="./assets/MonitoringSystem.svg" width="400" /></a>
+<a href="https://github.com/Leetaebeen/stock-signal-bot"><img src="./assets/stock-signal-bot.svg" width="400" /></a>
 
-<a href="https://github.com/Leetaebeen/money-plan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leetaebeen&repo=money-plan&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/Leetaebeen/franchise_recruitment_analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leetaebeen&repo=franchise_recruitment_analysis&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/Leetaebeen/money-plan"><img src="./assets/money-plan.svg" width="400" /></a>
+<a href="https://github.com/Leetaebeen/franchise_recruitment_analysis"><img src="./assets/franchise_recruitment_analysis.svg" width="400" /></a>
 
 <sub>📚 Study</sub><br>
 <a href="https://github.com/Leetaebeen/javasm"><img src="https://img.shields.io/badge/javasm-24283b?style=flat-square&logo=openjdk&logoColor=7aa2f7"/></a>
@@ -45,14 +45,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Leetaebeen&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetaebeen&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
-
 <img src="https://streak-stats.demolab.com?user=Leetaebeen&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leetaebeen&theme=tokyo-night&hide_border=true&radius=12" width="100%" />
 
 </div>
 
