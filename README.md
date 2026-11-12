@@ -11,11 +11,11 @@
 <table>
   <tr>
     <td align="center" width="110"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,mysql&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,mysql,sqlite&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
