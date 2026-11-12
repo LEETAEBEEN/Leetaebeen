@@ -1,42 +1,48 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=220&section=header&text=Taebeen%20Lee&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Welcome%20to%20my%20GitHub&descSize=18&descAlignY=56&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=Taebeen's%20GitHub&fontColor=f9a8d4&fontSize=50&height=120" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=BB9AF7&center=true&vCenter=true&width=520&lines=Hello+World!+%F0%9F%91%8B;Building+things+step+by+step;Thanks+for+visiting+%E2%9C%A8" />
+
+<br><br>
+
+## 🛠 Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="110"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,mysql&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,git,github,idea,postman&theme=dark" /></td>
+  </tr>
+</table>
 
 <br>
 
-### 👨‍💻 Contact me 👨‍💻
+## 📌 Projects
 
-<a href="mailto:tb0219@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
-<a href="https://github.com/Leetaebeen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Leetaebeen/StudyWithUs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leetaebeen&repo=StudyWithUs&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/Leetaebeen/senior"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Leetaebeen&repo=senior&theme=tokyonight&hide_border=true&border_radius=12" /></a>
 
-<br>
+<br><br>
 
-### 📧 Email 📧
+## 📊 GitHub Stats
 
-tb0219@naver.com
+<img src="https://github-readme-stats.vercel.app/api?username=Leetaebeen&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetaebeen&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
 
-<br>
+<img src="https://streak-stats.demolab.com?user=Leetaebeen&theme=tokyonight&hide_border=true&border_radius=12" />
 
-### ✨ Tech Stack ✨
+<br><br>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<br>
-
-### 📋 Stat 📋
-
-<img src="https://github-readme-stats.vercel.app/api?username=Leetaebeen&show_icons=true&theme=radical&count_private=true" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leetaebeen&layout=compact&theme=radical" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leetaebeen&theme=tokyo-night&hide_border=true&radius=12" width="100%" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=120&section=footer" width="100%"/>
