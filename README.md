@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td align="center" width="110"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,mysql,cs,dotnet,kafka&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,mysql&theme=dark" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
@@ -30,7 +30,6 @@
 <a href="https://github.com/Leetaebeen/StudyWithUs"><img src="./assets/StudyWithUs.svg" width="48%" /></a>
 <a href="https://github.com/Leetaebeen/senior"><img src="./assets/senior.svg" width="48%" /></a>
 
-<a href="https://github.com/Leetaebeen/MonitoringSystem"><img src="./assets/MonitoringSystem.svg" width="48%" /></a>
 <a href="https://github.com/Leetaebeen/stock-signal-bot"><img src="./assets/stock-signal-bot.svg" width="48%" /></a>
 
 <a href="https://github.com/Leetaebeen/money-plan"><img src="./assets/money-plan.svg" width="48%" /></a>
